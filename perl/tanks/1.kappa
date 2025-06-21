@@ -1,0 +1,13 @@
+<!-- Kappa Tank -->
+version=0.1b
+name=Spaz McGee
+budget=0
+gun=normal
+scanner=22.5
+create_date=20071218
+modify_date=20071218
+#############
+scan
+scan
+scan
+#############
